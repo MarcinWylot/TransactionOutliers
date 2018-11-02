@@ -7,5 +7,6 @@ Columns:
 -	gender – The gender of the customer
 -	store.type – The type of store the transaction occurred in
 
-Q1) What is the average transaction value?
-Q2) Is there significant difference between spend in different store types?
+questions:
+- What is the average transaction value?
+- Is there significant difference between spend in different store types?
